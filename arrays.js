@@ -6,8 +6,8 @@ function addElementToBeginningOfArray() {
   ["crunch", ...chocolateBars]
 }
 
-function destructivelyAddElementToBeginningOfArray(arr, ele) {
-  
+function destructivelyAddElementToBeginningOfArray() {
+  chocolateBars = ["crunch", ...chocolateBars]
 }
 
 
