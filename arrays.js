@@ -26,7 +26,7 @@ function accessElementInArray(x, y) {
 }
 
 
-des
+destructivelyRemoveElementOfArray
 
 
 
