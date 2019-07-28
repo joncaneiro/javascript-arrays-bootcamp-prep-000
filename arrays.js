@@ -42,7 +42,7 @@ function destructivelyRemoveElementFromEndOfArray(x) {
 }
 
 function removeElementFromEndOfArray(x) {
-  x.slice(x.length - 1)
+  x.slice(x.length - 1);
   return x
 }
 
